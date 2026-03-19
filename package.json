@@ -15,5 +15,9 @@
     "express": "^5.2.1",
     "mysql": "^2.18.1",
     "mysql2": "^3.19.1"
+  },
+  "devDependencies": {
+    "webpack": "^5.105.4",
+    "webpack-cli": "^7.0.2"
   }
 }
